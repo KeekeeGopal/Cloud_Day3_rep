@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://229f18a1.us-south.apiconnect.appdomain.cloud/mp-feedback';
+const apiUrl = 'https://d906ad9e.eu-gb.apiconnect.appdomain.cloud/day3-bootcamp-feedback';
 const feedback = {
   // retrieve the existing feedback entries
   get() {
